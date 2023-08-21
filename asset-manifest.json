@@ -1,16 +1,21 @@
 {
   "files": {
     "main.css": "/react-portfolio-2/static/css/main.073c9b0a.css",
-    "main.js": "/react-portfolio-2/static/js/main.56d65259.js",
+    "main.js": "/react-portfolio-2/static/js/main.ff753c76.js",
     "static/js/787.a7249224.chunk.js": "/react-portfolio-2/static/js/787.a7249224.chunk.js",
-    "static/media/logo.svg": "/react-portfolio-2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/tyrsvaultlandingpage.png": "/react-portfolio-2/static/media/tyrsvaultlandingpage.f29479a2f09c4d4bd55c.png",
+    "static/media/IMG_1525.jpg": "/react-portfolio-2/static/media/IMG_1525.19d98f397292fb0eb0d5.jpg",
+    "static/media/Kole Lam Resume.pdf": "/react-portfolio-2/static/media/Kole Lam Resume.9bd17397b13359ded755.pdf",
+    "static/media/crusaderslogo.png": "/react-portfolio-2/static/media/crusaderslogo.6518cb56b1ce11ff7c61.png",
+    "static/media/github.png": "/react-portfolio-2/static/media/github.e7a18774e43935aeb6a3.png",
+    "static/media/linkedIn.webp": "/react-portfolio-2/static/media/linkedIn.c593fb09e0e564af375e.webp",
     "index.html": "/react-portfolio-2/index.html",
     "main.073c9b0a.css.map": "/react-portfolio-2/static/css/main.073c9b0a.css.map",
-    "main.56d65259.js.map": "/react-portfolio-2/static/js/main.56d65259.js.map",
+    "main.ff753c76.js.map": "/react-portfolio-2/static/js/main.ff753c76.js.map",
     "787.a7249224.chunk.js.map": "/react-portfolio-2/static/js/787.a7249224.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.56d65259.js"
+    "static/js/main.ff753c76.js"
   ]
 }
