@@ -27,7 +27,7 @@ To run the portfolio locally, follow these steps:
 
 ## Usage
 
-Once the development server is running, you can access the portfolio in your web browser at `http://localhost:3000`. The portfolio's navigation bar allows you to navigate between different sections of the website, such as "About Me," "Portfolio," "Contact," and "Resume." Visit  https://kolelam.github.io/My-Portfolio/ to view the active site. npm
+Once the development server is running, you can access the portfolio in your web browser at `http://localhost:3000`. The portfolio's navigation bar allows you to navigate between different sections of the website, such as "About Me," "Portfolio," "Contact," and "Resume." Visit  https://kolelam.github.io/react-portfolio-2/ to view the active site. npm
 
 ## Configuration
 
